@@ -33,7 +33,7 @@
 
     <properties>
         <!-- hazelcast jet-->
-        <hazelcast.jet.version>0.6</hazelcast.jet.version>
+        <hazelcast.jet.version>4.5.4</hazelcast.jet.version>
     </properties>
 
 </project>
